@@ -15,7 +15,7 @@ languages:
   - python
 
 dast:
-  url: https://nehr.fortiseahk.com/
+  url: https://fsi.fortiseahk.com/
   full_scan: false #true|false
 
 resource:
